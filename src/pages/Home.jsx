@@ -1,4 +1,3 @@
-import profilePic from '../assets/images/profile.jpg'
 import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { TypeAnimation } from "./TypeAnimation";
