@@ -86,7 +86,7 @@ export default function About() {
             <div className="bg-card-bg rounded-2xl border border-white/5 p-6 sm:p-8 text-center">
               <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-br from-primary/20 to-accent/20 overflow-hidden border-2 border-white/10 mb-4">
                 <img
-                  src="/src/assets/images/profile.jpg"
+                  src="/images/profile.jpg"
                   alt="Miracle Joseph"
                   className="w-full h-full object-cover"
                   onError={(e) => {

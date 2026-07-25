@@ -161,7 +161,7 @@ export default function Home() {
                 <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-2 border-white/10 shadow-2xl shadow-primary/20">
                   {/* Replace with your actual photo path */}
                   <img
-                    src="/src/assets/images/profile.jpg"
+                    src="/images/profile.jpg"
                     alt="Miracle Joseph"
                     className="w-full h-full object-cover"
                     onError={(e) => {
